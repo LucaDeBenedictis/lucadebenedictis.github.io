@@ -41,8 +41,8 @@ author:
   orcid            : "https://orcid.org/0000-0001-8245-3940"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
+  researchgate     : "https://www.researchgate.net/profile/Luca-Benedictis"
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=15922299100"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
