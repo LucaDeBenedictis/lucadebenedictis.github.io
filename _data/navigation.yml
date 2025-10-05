@@ -14,13 +14,13 @@ main:
     - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
+  - title: "Presentations\Slides"
     url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "Miscellanea"
     url: /portfolio/
         
   - title: "Blog Posts"
