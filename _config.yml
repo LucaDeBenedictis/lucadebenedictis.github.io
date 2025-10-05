@@ -26,11 +26,11 @@ author:
   avatar           : "LDB_photo.jpg"
   name             : "Luca De Benedictis"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "I teach International Economics at the Universitas Mercatorum and at Luiss University in Rome, Italy."
+  location         : "Rome, Italy"
   employer         : "Universitas Mercatorum"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "luca.debenedictis@unimercatorum.it" 
 
   # Academic websites
   academia         : # URL
