@@ -19,8 +19,7 @@ One way of looking at the content of this webpage is the following:
 
     ```mermaid
     graph LR
-    CV-->Pubblications
-    CV-->Teaching
+    CV-->Pubblications & Teaching
     Pubblications-->Presentation&Slides
     Presentation&Slides-->Miscellanea
     ```
