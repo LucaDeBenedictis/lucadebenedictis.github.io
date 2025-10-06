@@ -15,7 +15,7 @@ My research focuses on the empirics of international trade and migration, with a
 
 Current research projects deal with the *Probability of Emigrations of University Professors in Fascist Italy* (joint with Sascha O. Becker); on *Environmental Migration* (joint with Maria Cipollina and Elisa Scibè); on *Emigrant Entrepreneurs* (with Massimiliano Bratti and Gianluca Santoni); on *Culture as Network* (joint with Veronica Vinciotti and Ernst Wit); on *Violence and consumers choices* (joint with Maurizio Zanardi); on *Online antisemitism* (joint with Giuseppe Giordano and Prosperina Vitale); on *Measuring Globalization* (joint with Luca Lodi, Silvia Leoni and Veronica Vinciotti); on the long-run effects of historical transport infrastructure, such as *navigation routes in the XVII century* (joint with Anna Maria Pinna and Miriam Manchin), and *consular roman roads* (joint with Anna Maria Pinna and Vania Licio), and on *Cyclical Ideas* (joint with Alessio Muscillo and Silvia Leoni).
 
-One way of looking at the content of this webpage is the wollowing:
+One way of looking at the content of this webpage is the following:
 
     ```mermaid
     graph LR
