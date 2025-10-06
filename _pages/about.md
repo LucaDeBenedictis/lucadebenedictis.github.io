@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I teach International Economics at the Universitas Mercatorum and at Luiss University in Rome, Italy.
+I teach International Economics at the [Universitas Mercatorum](https://www.unimercatorum.it/docenti/luca-de-benedictis) and at [Luiss University](https://www.luiss.it/faculty/353120) in Rome, Italy.
 
 My research focuses on the empirics of international trade. In particular, on the measurement of international sectoral and overall specialisation using nonparametric statistics; on the similarity in trade structures and on its effect on growth; on the use of dynamic panel data techniques in gravity models of trade flows and migration; and on the measurement of culture.
 
