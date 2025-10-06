@@ -1,9 +1,9 @@
 ---
-title: "Vinciotti-DeBenedictis-Wit_2024: Joint modelling of national cultures accounting for within and between-country heterogeneity"
+title: "Joint modelling of national cultures accounting for within and between-country heterogeneity"
 collection: publications
 category: manuscripts
 permalink: /publications/Vinciotti-DeBenedictis-Wit_2024
-excerpt: 'This paper is about cultural heterogeneity within and between countries.'
+excerpt: 'The paper is about cultural heterogeneity within and between countries.'
 date: 2024-12-17
 venue: 'Journal of the Royal Statistical Society Series A: Statistics in Society'
 slidesurl: 'http://lucadebenedictis.github.io/files/Vinciotti-DeBenedictis-Wit_2024 - Slides.pdf'
