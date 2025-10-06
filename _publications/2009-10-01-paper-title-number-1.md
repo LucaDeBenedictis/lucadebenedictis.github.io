@@ -1,14 +1,24 @@
 ---
-title: "Paper Title Number 1"
+title: "Vinciotti-DeBenedictis-Wit_2024: Joint modelling of national cultures accounting for within and between-country heterogeneity"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+date: 2024-12-17
+venue: 'Journal of the Royal Statistical Society Series A: Statistics in Society'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://academic.oup.com/jrsssa/advance-article/doi/10.1093/jrsssa/qnae131/7926816)'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Cultural values vary significantly around the world. Despite a large heterogeneity, similarities across national cultures are present. This article studies cross-country culture heterogeneity via the joint inference of country-specific copula graphical models from world-wide survey data. To this end, a random graph generative model of the cultural networks is introduced, with a latent space and proximity measures that embed cultural relatedness across countries. Within-country heterogeneity is also accounted for, via parametric modelling of the marginal distributions of each cultural trait. Altogether, the different components of the model are able to identify several dimensions of culture.
+
+Bibtex:
+@article{vinciotti2024joint,
+  title={Joint modelling of national cultures accounting for within and between-country heterogeneity},
+  author={Vinciotti, Veronica and De Benedictis, Luca and Wit, Ernst C},
+  journal={Journal of the Royal Statistical Society Series A: Statistics in Society},
+  pages={qnae131},
+  year={2024},
+  publisher={Oxford University Press UK}
+}
