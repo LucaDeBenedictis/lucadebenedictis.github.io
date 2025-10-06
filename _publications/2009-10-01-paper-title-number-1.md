@@ -7,7 +7,7 @@ excerpt: 'This paper is about the number 1. The number 2 is left for future work
 date: 2024-12-17
 venue: 'Journal of the Royal Statistical Society Series A: Statistics in Society'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academic.oup.com/jrsssa/advance-article/doi/10.1093/jrsssa/qnae131/7926816)'
+paperurl: 'https://academic.oup.com/jrsssa/advance-article/doi/10.1093/jrsssa/qnae131/7926816'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
