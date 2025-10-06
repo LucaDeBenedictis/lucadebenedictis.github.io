@@ -1,15 +1,17 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to my Webpage"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I teach International Economics at the Universitas Mercatorum and at Luiss University in Rome, Italy.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+My research focuses on the empirics of international trade. In particular, on the measurement of international sectoral and overall specialisation using nonparametric statistics; on the similarity in trade structures and on its effect on growth; on the use of dynamic panel data techniques in gravity models of trade flows and migration; and on the measurement of culture.
+
+My ongoing research deals with the application of network analysis to international trade and migration flows, to causal identification with interference, to spatial discontinuity design, on the long-run effects of historical transport infrastructure, such as navigation routes in the XVII century, and consular roman roads, and the expulsion of university professors of jewish origin in fascist Italy.
 
 A data-driven personal website
 ======
