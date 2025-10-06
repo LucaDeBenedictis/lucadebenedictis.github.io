@@ -1,3 +1,4 @@
+![Pub1](/images/JRSSSA.png){: .align-left width="75px"}
 ---
 title: "Vinciotti-DeBenedictis-Wit_2024: Joint modelling of national cultures accounting for within and between-country heterogeneity"
 collection: publications
