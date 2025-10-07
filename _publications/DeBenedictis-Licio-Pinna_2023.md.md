@@ -5,7 +5,7 @@ category: books
 permalink: /publication/DeBenedictis-Licio-Pinna_2023
 excerpt: 'The paper is about consular Roman roads in a first-stage regression with modern infrastructure.'
 date: 2023-11-01
-venue: 'Journal of Regional Science,'
+venue: 'Journal of Regional Science'
 slidesurl: 'http://lucadebenedictis.github.io/files/DeBenedictis-Licio-Pinna_2023 - Slides.pdf'
 paperurl: 'https://onlinelibrary.wiley.com/doi/full/10.1111/jors.12659'
 citation: 'De Benedictis, L., Licio V. and Pinna A.M. (2010). &quotFrom the historical Roman road network to modern infrastructure in Italy&quot; <i>Journal of Regional Science</i>. 63(5), 1162-1191.'
