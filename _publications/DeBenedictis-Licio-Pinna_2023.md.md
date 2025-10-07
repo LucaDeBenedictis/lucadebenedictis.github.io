@@ -4,7 +4,7 @@ collection: publications
 category: books
 permalink: /publication/DeBenedictis-Licio-Pinna_2023
 excerpt: 'The paper is about consular Roman roads in a first-stage regression with modern infrastructure.'
-date: 2010-11-01
+date: 2023-11-01
 venue: 'Journal of Regional Science,'
 slidesurl: 'http://lucadebenedictis.github.io/files/DeBenedictis-Licio-Pinna_2023 - Slides.pdf'
 paperurl: 'https://onlinelibrary.wiley.com/doi/full/10.1111/jors.12659'
