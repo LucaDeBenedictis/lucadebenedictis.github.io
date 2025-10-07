@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my Webpage"
+title: "Welcome to my online resume"
 author_profile: true
 redirect_from: 
   - /about/
