@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* _Ph.D in Economics_, Polithecnic University of Marche, 1992
+* _M.S. (DES) in International Economics, Graduate Institute of International Sciences, 1990
+* B.S. in Economics, Sapienza University of Rome, Italy, 1986
 
 Work experience
 ======
