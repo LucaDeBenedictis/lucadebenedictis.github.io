@@ -23,11 +23,11 @@ main:
   - title: "Miscellanea"
     url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  # - title: "Blog Posts"
+  #  url: /year-archive/
     
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
+  - title: "Coding"
     url: /markdown/
