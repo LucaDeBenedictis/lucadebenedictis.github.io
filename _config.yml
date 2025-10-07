@@ -84,9 +84,11 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+    title: 'Trade and migration in contemporary and historical context'    
+  manuscripts:
+    title: 'Network Analysis'
+  manuscripts:
+    title: 'The measurement of culture'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
