@@ -1,7 +1,7 @@
 ---
 title: "Joint modelling of national cultures accounting for within and between-country heterogeneity"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publications/Vinciotti-DeBenedictis-Wit_2024
 excerpt: 'The paper is about cultural heterogeneity within and between countries.'
 date: 2024-12-17
