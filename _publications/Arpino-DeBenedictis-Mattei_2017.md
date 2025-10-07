@@ -2,7 +2,7 @@
 title: "Implementing propensity score matching with network data: the effect of the General Agreement on Tariffs and
 Trade on bilateral trade"
 collection: publications
-category: books
+category: manuscripts
 permalink: /publication/Arpino-DeBenedictis-Mattei_2017
 excerpt: 'The paper is about the application of propensity score matching to trade networks.'
 date: 2017-08-01
