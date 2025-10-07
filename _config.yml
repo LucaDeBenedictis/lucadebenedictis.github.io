@@ -81,13 +81,11 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
+  topic1:
     title: 'Trade and migration in contemporary and historical context'    
-  manuscripts:
+  topic2:
     title: 'Network Analysis'
-  manuscripts:
+  topic3:
     title: 'The measurement of culture'
 
 # Site Settings
