@@ -5,7 +5,7 @@ type: "Seminar"
 permalink: /talks/NADA
 venue: "11th International Conference on Social Science Methodology"
 date: 2025-09-23
-slidesurl: 'http://lucadebenedictis.github.io/files/NADA_slide.pdf'
+slidesurl: 'http://lucadebenedictis.github.io/files/NADA_Slides.pdf'
 location: "Naples, Italy"
 ---
 
