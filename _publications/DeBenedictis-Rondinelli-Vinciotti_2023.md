@@ -3,7 +3,7 @@ title: "Cultures as networks of cultural traits: A unifying framework for measur
 collection: publications
 category: conferences
 permalink: /publications/DeBenedictis-Rondinelli-Vinciotti_2023
-excerpt: 'The paper is about culture as anetwork of cultural traits and the cultural distance between countries.'
+excerpt: 'The paper is about culture as a network of cultural traits and the cultural distance between countries.'
 date: 2023-02-16
 venue: 'Journal of the Royal Statistical Society Series A: Statistics in Society'
 slidesurl: 'http://lucadebenedictis.github.io/files/DeBenedictis-Rondinelli-Vinciotti_2023 - Slides.pdf'
