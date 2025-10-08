@@ -1,7 +1,7 @@
 ---
 title: "Discrimination, Political Orientation and the Probability to Emigrate and Escape: University Professors in Fascist Italy"
 collection: talks
-type: "Talk"
+type: "Seminar"
 permalink: /talks/DPOPEE
 venue: "Rockwool Foundation Seminars"
 date: 2025-09-08
