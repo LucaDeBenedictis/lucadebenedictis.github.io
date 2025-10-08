@@ -1,14 +1,14 @@
 ---
-title: "On the pro-trade effects of immigrants"
+title: "Gender bias in the Erasmus network of universities"
 collection: publications
-category: books
-permalink: /publication/Bratti-DeBenedictis-Santoni_2014
+category: manuscripts
+permalink: /publication/DeBenedictis-Leoni_2020
 excerpt: 'The paper is about the causal effect of immigrant entrepreneurs on trade flows at the province level.'
-date: 2014-05-01
-venue: 'Review of World Economics'
-slidesurl: 'http://lucadebenedictis.github.io/files/Bratti-DeBenedictis-Santoni_2014 - Slides.pdf'
-paperurl: 'https://link.springer.com/article/10.1007/s10290-014-0191-8'
-citation: 'Bratti, M., De Benedictis, L. & Santoni, G. (2014). &quotOn the pro-trade effects of immigrants&quot; <i>Review of World Economics</i>. 150, 557–594'
+date: 2020-05-01
+venue: 'Applied Network Science'
+slidesurl: 'http://lucadebenedictis.github.io/files/DeBenedictis-Leoni_2020 - Slides.pdf'
+paperurl: 'https://link.springer.com/article/10.1007/s41109-020-00297-9'
+citation: 'De Benedictis, L. & Leoni, S. (2020). &quotGender bias in the Erasmus network of universities&quot; <i>Applied Network Science</i>. 150, 557–594'
 ---
 
-![Pub1](/images/RWE.png){: .align-left width="75px"} The paper investigates the causal effect of immigration on trade flows using Italian panel data at the province level. We exploit the exceptional characteristics of the Italian data (the fine geographical disaggregation, the very high number of countries of origin of immigrants, the high heterogeneity of social and economic characteristics of Italian provinces, and the absence of cultural or historical ties with the countries where immigrants come from) coupled with the use of a wide set of fixed effects and an ‘instrument’ based on immigrants’ enclaves. We find that immigrants have a significant positive effect on both exports and imports, but much larger for the latter. The pro-trade effects of immigrants tend to decline in space, and even turn negative when large ethnic communities are located too far away from a specific province (via a trade-diversion effect). Moreover, while our data show inter-ethnic spillovers for exports, we find no evidence that networks between different ethnicities affect provinces’ imports. Finally, we provide evidence of a substantial heterogeneity in the effects of immigrants: the impact on trade tends to be larger for immigrants coming from low-income countries, for earlier waves of immigrants, and for least advanced provinces (Southern Italy).
+![Pub1](/images/ANS.png){: .align-left width="75px"} The Erasmus Program (EuRopean community Action Scheme for the Mobility of University Students), the most important student exchange program in the world, financed by the European Union and started in 1987, is characterized by a strong gender bias. Female students participate to the program more than male students. This work quantifies the gender bias in the Erasmus program between 2008 and 2013, using novel data at the university level. It describes the structure of the program in great detail, carrying out the analysis across fields of study, and identifies key universities as senders and receivers. In addition, it tests the difference in the degree distribution of the Erasmus network along time and between genders, giving evidence of a greater density in the female Erasmus network with respect to the one of the male Erasmus network.
