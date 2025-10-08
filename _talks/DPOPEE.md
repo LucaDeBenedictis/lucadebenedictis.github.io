@@ -5,7 +5,7 @@ type: "Talk"
 permalink: /talks/DPOPEE
 venue: "UC San Francisco, Department of Testing"
 date: 2025-09-08
-slidesurl: 'http://lucadebenedictis.github.io/files/Becker-DeBenedictis_2025 - Slides.pdf'
+slidesurl: 'http://lucadebenedictis.github.io/files/DPOPEE_slide.pdf'
 location: "Rockwool Foundation Seminars, Copenhagen, Denmark"
 ---
 
