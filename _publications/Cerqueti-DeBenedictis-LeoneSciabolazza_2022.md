@@ -1,7 +1,7 @@
 ---
 title: "Segregation with Social Linkages: Evaluating Schelling’s Model with Networked Individuals"
 collection: publications
-category: manusctripts
+category: manuscripts
 permalink: /publication/Cerqueti-DeBenedictis-LeoneSciabolazza_2022
 excerpt: 'The paper generalizes the original Schelling model of racial and residential segregation to a context of variable externalities due to social linkages.'
 date: 2022-06-01
