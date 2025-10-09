@@ -1,7 +1,7 @@
 ---
 title: "The impact of trade costs on the European Regional Trade Network: An empirical and theoretical analysis"
 collection: publications
-category: manusctripts
+category: manuscripts
 permalink: /publication/Basile-Commendatore-DeBenedictis-Kubin_2017
 excerpt: 'The paper analyzes the topology of the E.U. regional trade network and build a simple new geography model upon it.'
 date: 2018-09-26
