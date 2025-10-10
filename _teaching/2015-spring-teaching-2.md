@@ -1,20 +1,23 @@
 ---
-title: "Teaching experience 2"
+title: "Internationa Economics"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Master"
+permalink: /teaching/2025-International-Economics
+venue: "LUISS"
+date: 2026-02-01
+location: "Rome, Italy"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This is the course I teach (in English) at Luiss
 
-Heading 1
+Globalization
 ======
 
-Heading 2
+Comparative Advantages
 ======
 
-Heading 3
+Gravity Model
+======
+
+Protectionism
 ======
