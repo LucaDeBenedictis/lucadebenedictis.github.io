@@ -4,4 +4,4 @@ excerpt: "This is the picture I have in my GitHub page: <br/><img src='/images/L
 collection: portfolio
 ---
 
-This is a picture of myself I have in my GitHub page.
+This is a giant version of the picture of myself I have in my GitHub page.
