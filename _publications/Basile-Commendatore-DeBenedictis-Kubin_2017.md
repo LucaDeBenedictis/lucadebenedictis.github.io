@@ -6,7 +6,7 @@ permalink: /publication/Basile-Commendatore-DeBenedictis-Kubin_2017
 excerpt: 'The paper analyzes the topology of the E.U. regional trade network and build a simple new geography model upon it.'
 date: 2018-09-26
 venue: 'Review of International Economics'
-slidesurl: 'http://lucadebenedictis.github.io/files/Basile-Commendatore-DeBenedictis-Kubin_2018 - Slides.pdf'
+#slidesurl: 'http://lucadebenedictis.github.io/files/Basile-Commendatore-DeBenedictis-Kubin_2018 - Slides.pdf'
 paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1111/roie.12314'
 citation: 'Basile, R., Commendatore P., De Benedictis, L., & Kubin, I. (2018). &quotThe impact of trade costs on the European Regional Trade Network: An empirical and theoretical analysis&quot; <i>Review of International Economics</i>. 26(3), 578-609.'
 ---
