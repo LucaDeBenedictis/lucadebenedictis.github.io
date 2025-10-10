@@ -9,8 +9,7 @@ slidesurl: 'http://lucadebenedictis.github.io/files/NADA_Slides.pdf'
 location: "Naples, Italy"
 ---
 
-Speeches around Holocaust Remembrance Day have a recurring pattern, punctuated by institutional moments like the "Remembrance Day".
-Hate speeches are traditionally linked to the memory of the events and the Jews’ historical persecution. Recent events in the Israeli-Palestinian conflict have given rise to new semantic
+With [Giuseppe Giordano](https://docenti.unisa.it/005269/home) and [Maria Prosperina Vitale](https://docenti.unisa.it/020077/home) we show that speeches around Holocaust Remembrance Day have a recurring pattern, punctuated by institutional moments like the "Remembrance Day". Hate speeches are traditionally linked to the memory of the events and the Jews’ historical persecution. Recent events in the Israeli-Palestinian conflict have given rise to new semantic
 domains, some of which emerge as forms of hatred reversed and spilled over from Israel to Jews.
 
 [Slides here](http://lucadebenedictis.github.io/files/NADA_Slides.pdf)
