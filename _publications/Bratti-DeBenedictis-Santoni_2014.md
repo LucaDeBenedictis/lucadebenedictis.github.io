@@ -6,7 +6,7 @@ permalink: /publication/Bratti-DeBenedictis-Santoni_2014
 excerpt: 'The paper is about the causal effect of immigrant entrepreneurs on trade flows at the province level.'
 date: 2014-05-01
 venue: 'Review of World Economics'
-slidesurl: 'http://lucadebenedictis.github.io/files/Bratti-DeBenedictis-Santoni_2014 - Slides.pdf'
+#slidesurl: 'http://lucadebenedictis.github.io/files/Bratti-DeBenedictis-Santoni_2014 - Slides.pdf'
 paperurl: 'https://link.springer.com/article/10.1007/s10290-014-0191-8'
 citation: 'Bratti, M., De Benedictis, L. & Santoni, G. (2014). &quotOn the pro-trade effects of immigrants&quot; <i>Review of World Economics</i>. 150, 557–594'
 ---
