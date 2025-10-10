@@ -1,5 +1,5 @@
 ---
-title: "Internationa Economics"
+title: "International Economics"
 collection: teaching
 type: "Master"
 permalink: /teaching/2025-International-Economics
