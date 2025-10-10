@@ -15,7 +15,9 @@ redirect_from:
 
 # Generate sample data from a function
 set.seed(42)
+
 x <- seq(-3, 3, length.out = 200)
+
 y <- sin(x) + rnorm(200, sd = 0.1)  # Function with noise
 
 # Apply kernel smoothing with different thickening (bandwidths)
@@ -23,6 +25,7 @@ h_seq <- c(0.1, 0.3, 0.6)  # Increasing kernel width = thicker approximation
 
 # Plot thickened approximations
 plot(x, y, pch = 16, col = rgb(0, 0, 0, 0.2), main="Function Approximation by three Kernels")
+
 for (h in h_seq) {
 	smoothed <- ksmooth(x, y, kernel="normal", bandwidth=h)
 	lines(smoothed, col=rgb(1, 0, 0, 0.5))
@@ -33,7 +36,9 @@ legend("bottomright", legend=paste("h =", h_seq), col=rgb(1, 0, 0, 0.5), lwd=2, 
 
 # Generate sample data
 set.seed(42)
+
 x <- seq(-3, 3, length.out = 200)  # X values
+
 y <- sin(x) + rnorm(200, sd = 0.1)  # Function with noise
 
 # Define a function that applies thickening (smoothing) with h
