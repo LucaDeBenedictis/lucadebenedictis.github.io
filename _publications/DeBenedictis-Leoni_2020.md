@@ -6,7 +6,7 @@ permalink: /publication/DeBenedictis-Leoni_2020
 excerpt: 'The paper is about the causal effect of immigrant entrepreneurs on trade flows at the province level.'
 date: 2020-05-01
 venue: 'Applied Network Science'
-slidesurl: 'http://lucadebenedictis.github.io/files/DeBenedictis-Leoni_2020 - Slides.pdf'
+slidesurl: 'http://lucadebenedictis.github.io/files/DeBenedictis-Leoni_2020-Slides.pdf'
 paperurl: 'https://link.springer.com/article/10.1007/s41109-020-00297-9'
 citation: 'De Benedictis, L. & Leoni, S. (2020). &quotGender bias in the Erasmus network of universities&quot; <i>Applied Network Science</i>. 150, 557–594'
 ---
