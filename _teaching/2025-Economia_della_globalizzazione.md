@@ -8,7 +8,7 @@ date: 2025-08-01
 location: "Rome, Italy"
 ---
 
-This is the course (in Italian) I teach at the Universitas Mercatorum
+This is the course I teach (in Italian) at the Universitas Mercatorum
 
 History (1600-2025)
 ======
