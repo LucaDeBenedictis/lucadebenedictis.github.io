@@ -3,7 +3,7 @@ title: "Gender bias in the Erasmus network of universities"
 collection: publications
 category: manuscripts
 permalink: /publication/DeBenedictis-Leoni_2020
-excerpt: 'The paper is about the causal effect of immigrant entrepreneurs on trade flows at the province level.'
+excerpt: 'The paper is about the gender bias in the Erasmus program between 2008 and 2013, using novel data at the university level.'
 date: 2020-05-01
 venue: 'Applied Network Science'
 slidesurl: 'http://lucadebenedictis.github.io/files/DeBenedictis-Leoni_2020-Slides.pdf'
