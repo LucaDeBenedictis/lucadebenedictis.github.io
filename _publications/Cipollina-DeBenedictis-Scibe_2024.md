@@ -6,7 +6,7 @@ permalink: /publication/Cipollina-DeBenedictis-Scibe_2024
 excerpt: 'The paper provides a comprehensive quantitative overview of the literature on the relationship between environmental changes and human migration.'
 date: 2024-11-01
 venue: 'Review of World Economics'
-slidesurl: 'http://academicpages.github.io/files/Cipollina-DeBenedictis-Scibe_2022-Slides.pdf'
+slidesurl: 'http://lucadebenedictis.github.io/files/Cipollina-DeBenedictis-Scibe_2022-Slides.pdf'
 paperurl: 'https://link.springer.com/article/10.1007/s10290-024-00529-5'
 #bibtexurl: 'http://lucadebenedictis.github.io/files/Cipollina-DeBenedictis-Scibe_2024.bib'
 citation: 'Cipollina, M., De Benedictis, L. & Scibè, E. (2024). &quotEnvironmental migration? A systematic review and meta-analysis of the literature&quot; <i>Review of World Economics</i>. 160, 1393–1441.'
