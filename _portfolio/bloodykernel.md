@@ -1,6 +1,6 @@
 ---
-title: "Blody Kernel"
-excerpt: "This is the best smooth interpolator I ever produced: <br/><img src='/images/BlodyKernel.pdf'>"
+title: "Bloody Kernel"
+excerpt: "This is the best smooth interpolator I ever produced: <br/><img src='/images/BloodyKernel.pdf'>"
 collection: markdown
 ---
 
