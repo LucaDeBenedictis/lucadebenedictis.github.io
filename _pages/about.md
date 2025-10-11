@@ -17,9 +17,5 @@ redirect_from:
 
 One way of looking at the content of this webpage is the following:
 
-    ```mermaid
-    graph LR
-    CV-->Pubblications & Teaching
-    Pubblications-->Presentation&Slides
-    Presentation&Slides-->Miscellanea
+![Voronoi](/images/webpage2025.png){: .align-center width="550px"}
     ```
