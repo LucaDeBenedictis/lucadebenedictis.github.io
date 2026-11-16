@@ -13,4 +13,6 @@ With [Sascha O. Becker](https://www.sobecker.de) we study the decision to emigra
 
 [Full professors here](http://lucadebenedictis.github.io/files/DPOPEE_slide.pdf)
 
+[Interactive beeswarm plot](http://lucadebenedictis.github.io/files/dpopee_beeswarm.html)
+
 [Albert O. Hischmann's  false passport](http://lucadebenedictis.github.io/files/Hirschmans-false-passport.jpg)
